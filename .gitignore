@@ -1,0 +1,10 @@
+go.sum
+erd.mwb
+erd.mwb.bak
+/.fleet
+/.idea
+/.vscode
+.env
+.env.backup
+.env.production
+/storage
